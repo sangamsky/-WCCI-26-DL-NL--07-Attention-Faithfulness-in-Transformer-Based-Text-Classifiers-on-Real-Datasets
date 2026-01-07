@@ -1,0 +1,57 @@
+├── code/
+
+│ ├── notebooks/
+
+│ │ ├── baseline_replication.ipynb
+
+│ │ ├── experiment_v1.ipynb
+
+│ │ └── experiment_v2.ipynb
+
+│ ├── src/
+
+│ └── requirements.txt
+
+│
+
+├── docs/
+
+│ ├── Baseline_Paper.pdf
+
+│ ├── Baseline_Paper_Study_Notes.docx
+
+│ ├── Sprint_Progress_Log.docx
+
+│ ├── Daily_Progress_Report.md
+
+│
+
+├── paper/
+
+│ ├── Conference_Template.docx
+
+│ └── Draft_Paper.docx
+
+│
+
+├── data/
+
+│ ├── raw/
+
+│ └── processed/
+
+│
+
+├── results/
+
+│ ├── figures/
+
+│ └── tables/
+
+│
+
+└── admin/
+
+ ├── contributors.md
+
+ └── roles.md
