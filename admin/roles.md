@@ -1,4 +1,4 @@
-## Mahi Sharma 
+## Mahi  
 
 - Run experiments
 
